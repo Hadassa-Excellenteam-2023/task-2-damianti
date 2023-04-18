@@ -22,3 +22,4 @@ struct Place {
 
 
 const int BOARD_SIZE = 8;
+//job done
