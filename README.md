@@ -4,6 +4,7 @@ This project is a simple Chess game implemented in C++. It provides a basic text
 
 ## Features
 
+
 ### Board
 - Initialize board from a given string representation
 - Execute a move command
